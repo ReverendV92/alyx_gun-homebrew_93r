@@ -1,0 +1,12 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/weapons/93r/93r_sheet_alyx
+	$bumpmap dev/bump_normal
+	$lightwarptexture dev/identitylightwarp
+
+	$phong 1
+	$phongexponenttexture models/weapons/93r/93r_sheet_exponent
+
+}

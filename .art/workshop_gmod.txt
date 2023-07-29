@@ -1,0 +1,33 @@
+[Replacement] Homebrew 93R
+
+The [url=https://en.wikipedia.org/wiki/Beretta_93R]93 Raffica[/url] is a select-fire 3-round-burst/semi-automatic machine pistol designed in the 1970s by Beretta for SWAT, HRTs, special forces, and movie gangsters the world over. It's part handgun, part sub-machine gun, part 1970s snorting-cocaine-off-a-hooker's-ass-in-Tijuana bender idea. The sheer insanity of a 9x19mm NATO pistol having a cyclic rate of 1,100 rounds per minute is both ludicrously stupid yet amazing enough to give Uncle Leeroy a Freedom Boner™ at the same time.
+
+Given the low production numbers, poorly-received reviews, and rarely used nature of Beretta's entry into the machine pistol market in 1979, it was no wonder Alyx couldn't obtain a legitimate 93R model in the Orwellian apocalyptic hellscape that is Earth post-Black Mesa Incident. The lackluster nature of the standard US M9 meant that many of them were discarded like a cheap prom dress when facing the aliens that shrugged off 9x19mm NATO rounds like a fat kid shrugs off failing grades in a Physical Education class.
+
+Alyx used some of that tinkerer's ingenuity and made the next best thing with the parts on hand. It lacks the 93R's safety selector, compensator or barrel. It has the wrong trigger guard, slide, mode selector switch, and is chambered in .40S&W instead of 9x19mm NATO.
+
+Alyx was just making due with what she had. It's hard to find good articles on the 93R for reference research on the [url=https://combineoverwiki.net/]Combine Overwiki[/url].
+
+This is a rework of [url=https://gamebanana.com/skins/112837]Doktor Haus' "93R"[/url] for Alyx's pistol. Includes sounds for episodic use courtesy of [url=https://gamebanana.com/sounds/19954]Navaro[/url].
+
+I swapped the Beretta logo out for a really shitty looking Lambda. Changed it to an ivory-looking grip like the default.
+
+[h1][b][i]Credit Where It's Due[/i][/b][/h1]
+[list]
+[*][url=https://steamcommunity.com/id/JesseVanover]V92[/url] - Compile for HL2, textures
+[*][url=https://gamebanana.com/sounds/19954]Navaro[/url] - 93R sounds
+[*]Digital Illusions, C.E - (Battlefield 3) M9 sounds
+[*]Crytek GmbH - (Crysis) FY71 Rifle, SOCOM Pistol
+[*]Firearms: Source - OTS33 Pistol sounds
+[*][url=https://gamebanana.com/members/454916]Spydr[/url] - "93R" model
+[*][url=https://gamebanana.com/members/1576591]!NC!Furious[/url] - Textures
+[*][RO]Jeremey - Textures
+[*][url=https://gamebanana.com/members/870567]Thor[/url] - Model fixes
+[*][url=https://gamebanana.com/skins/112837]Doktor Haus[/url] - Model
+[/list]
+
+[h1][b][i]Other Versions[/i][/b][/h1]
+[list]
+[*][url=https://gamebanana.com/skins/176889]Half-Life 2[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2290810239]Synergy[/url]
+[/list]
